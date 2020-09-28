@@ -1,0 +1,11 @@
+repository:
+    # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+    description: TP03 - CSS styling
+    homepage: http://edu.iepscf-uccle.be/moodle/mod/workshop/view.php?id=15759
+    has_downloads: true
+    has_issues: false
+    has_projects: false
+    has_wiki: false
+
+    default_branch: master
